@@ -11,5 +11,10 @@
       "name": "Gholeibani",
       "email": "gholi@biabani.com"
     }
-  ]
+  ],
+  "autoload": {
+        "psr-4": {
+            "Laragram\\": "src/"
+        }
+    },
 }
