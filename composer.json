@@ -1,0 +1,15 @@
+{
+  "name": "webbax-ir/laragram",
+  "description": "bot",
+  "type": "library",
+  "require": {
+    "php": ">=7.4.0"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Gholeibani",
+      "email": "gholi@biabani.com"
+    }
+  ]
+}
